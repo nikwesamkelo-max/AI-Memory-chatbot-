@@ -1,6 +1,6 @@
-# AI Memory Chatbot (Python)
+ AI Memory Chatbot (Python)
 
-## Overview
+ Overview
 This project is a simple rule-based chatbot that uses memory and classification to simulate conversation.
 
 It can:
@@ -11,7 +11,7 @@ It can:
 
 ---
 
-## Features
+ Features
 - Intent classification (rule-based NLP)
 - Memory system (stores user name, interests, learning topics)
 - Emotion tracking
@@ -19,7 +19,7 @@ It can:
 
 ---
 
-## How it works
+ How it works
 The chatbot:
 1. Reads user input
 2. Classifies the message type
@@ -28,7 +28,7 @@ The chatbot:
 
 ---
 
-## Example
+ Example
 User: My name is Sam  
 Bot: Nice to meet you, Sam!
 
@@ -37,13 +37,13 @@ Bot: Got it. I'll remember you're learning python.
 
 ---
 
-## Tech Stack
+ Tech Stack
 - Python (core logic)
 - No external libraries
 
 ---
 
-## Future Improvements
+ Future Improvements
 - Add AI/NLP library (like spaCy or transformers)
 - Improve memory persistence (save to file/database)
 - Add web interface
